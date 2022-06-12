@@ -28,7 +28,7 @@ export default function App() {
     // </div>
     <div
       style={{
-        backgroundColor: 'blue',
+        backgroundColor: 'green',
         width: '500px',
         height: '500px'
       }}
